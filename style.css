@@ -1,3 +1,23 @@
 body {
     font-family: 'Montserrat', sans-serif;
 }
+
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: medium;
+}
+
+.button {
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.orange {
+    color: orange;
+}
