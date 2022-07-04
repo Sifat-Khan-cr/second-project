@@ -1,10 +1,23 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+.line {
+    display: flex;
+}
+
+.half {
+    width: 50%;
+}
+
+img {
+    width: 100%;
 }
 
 h1 {
     font-size: 60px;
-    font-weight: bold;
+    font-weight: 700;
 }
 
 h3 {
@@ -14,8 +27,13 @@ h3 {
 
 .button {
     font-size: 18px;
-    font-weight: bold;
+
     text-decoration: none;
+    color: white;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: 600;
 }
 
 .orange {
