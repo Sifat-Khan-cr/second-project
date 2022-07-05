@@ -68,3 +68,36 @@ h3 {
     text-align: center;
     margin: 20px 20%;
 }
+
+.box {
+
+    margin: 3%;
+    padding: 10px;
+    box-shadow: 20px 20px 40px 1px black;
+
+}
+
+.boximg {
+    max-width: 600px;
+    margin: 10px 10%;
+}
+
+.three {
+    width: 100%;
+}
+
+.tpcs {
+    margin: 10%;
+}
+
+footer {
+    background-color: #0b0d17;
+    text-align: center;
+    padding: 30px;
+
+}
+
+h5 {
+    color: white;
+
+}
